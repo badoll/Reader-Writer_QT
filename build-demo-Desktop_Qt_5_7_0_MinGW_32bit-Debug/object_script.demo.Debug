@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\main_view.o
+./debug\controller.o
+./debug\reader.o
+./debug\writer.o
+./debug\user.o
+./debug\moc_Reader.o
+./debug\moc_Writer.o
+./debug\moc_Main_view.o
+./debug\moc_Controller.o
+./debug\moc_User.o
+);

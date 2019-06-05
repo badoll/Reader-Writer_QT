@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\main_view.o
+./release\controller.o
+./release\reader.o
+./release\writer.o
+./release\user.o
+./release\moc_Reader.o
+./release\moc_Writer.o
+./release\moc_Main_view.o
+./release\moc_Controller.o
+./release\moc_User.o
+);
